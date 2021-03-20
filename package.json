@@ -1,0 +1,20 @@
+{
+  "name": "china-map-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "d3-geo": "^2.0.1",
+    "three": "^0.126.1"
+  },
+  "devDependencies": {
+    "vite": "^2.1.1"
+  }
+}
